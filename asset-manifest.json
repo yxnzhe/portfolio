@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2b180ac1.css",
-    "main.js": "/portfolio/static/js/main.f325d260.js",
+    "main.css": "/portfolio/static/css/main.865c1411.css",
+    "main.js": "/portfolio/static/js/main.5346dc1b.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/profile.AVIF": "/portfolio/static/media/profile.95ec78017497c55e3997.AVIF",
+    "static/media/Arinaa Kambyan.webp": "/portfolio/static/media/Arinaa Kambyan.d53ce5c1a3bb7ad0f20d.webp",
+    "static/media/Fend AI Security Logo.jpeg": "/portfolio/static/media/Fend AI Security Logo.01a0d3505aa317065d94.jpeg",
+    "static/media/mercedes-benz-9-logo-svg-vector.svg": "/portfolio/static/media/mercedes-benz-9-logo-svg-vector.e634c71b360ee3ae1f0210e259ff8a7a.svg",
     "index.html": "/portfolio/index.html",
-    "main.2b180ac1.css.map": "/portfolio/static/css/main.2b180ac1.css.map",
-    "main.f325d260.js.map": "/portfolio/static/js/main.f325d260.js.map",
+    "main.865c1411.css.map": "/portfolio/static/css/main.865c1411.css.map",
+    "main.5346dc1b.js.map": "/portfolio/static/js/main.5346dc1b.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b180ac1.css",
-    "static/js/main.f325d260.js"
+    "static/css/main.865c1411.css",
+    "static/js/main.5346dc1b.js"
   ]
 }
